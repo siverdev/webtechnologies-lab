@@ -28,7 +28,7 @@
 
 
 # 2. to-do list
-**Repository link:**
+**Repository link:** [link](https://github.com/yunytsky/2do)
 **Brief description:** MVC to-do list app  
 **Technologies:** node.js  
 
