@@ -55,11 +55,9 @@
 
 
 # Відео:
-
 ## Проєкти, зроблені до 01.11:
-1
-2
-3
+**GoogleDrive link:** [link](https://drive.google.com/drive/u/3/folders/1W3_0gN-wMkK8ULxQEmx89lY34dsZ8ki1)
 
-## Проєкти, зроблені до 15.11:
-1
+
+## Проєкти, зроблені після 01.11 до 15.11:
+**GoogleDrive link:** [link](https://drive.google.com/drive/u/3/folders/1XWP-rOrV6jCETbCAu6A8zdzUcdrFBuM7)
